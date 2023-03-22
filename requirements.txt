@@ -22,7 +22,7 @@ future==0.18.3
 geopy==2.3.0
 gpytranslate==1.5.1
 git+https://github.com/python-telegram-bot/ptbcontrib.git
-gitpython==3.1.30
+gitpython==3.1.31
 hachoir==3.2.0
 html2text==2020.1.16
 jikanpy==4.3.2

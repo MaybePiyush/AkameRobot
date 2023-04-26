@@ -51,7 +51,7 @@ telegraph==2.2.0
 telethon==1.27.0
 tgcrypto==1.2.5
 wikipedia==1.4.0
-cloudscraper==1.2.69
+cloudscraper==1.2.71
 carbonnow
 pretty_errors
 wget==3.2
